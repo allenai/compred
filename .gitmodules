@@ -1,3 +1,0 @@
-[submodule "trl"]
-	path = trl
-	url = git@github.com:huggingface/trl.git
